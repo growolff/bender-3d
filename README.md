@@ -1,4 +1,4 @@
-# Figura de acción Bender UChile 3D
+# Figura de acción Bender UChile
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -64,9 +64,10 @@ También se agregan archivos listos para imprimir por color:
 ## Ensamblaje
 
 
+
 ## Modificación del modelo
 
-Si quieres hacer alguna modificación al modelo también se encuentran en la carpeta [cad/f3d]() los archivos editables en formato f3d (fusion360) y en la carpeta [cad/stp]() los archivos en formato STEP.
+Si quieres hacer alguna modificación al modelo también se encuentran en la carpeta [cad/f3d](cad/f3d) los archivos editables en formato f3d (fusion360) y en la carpeta [cad/stp](cad/stp) los archivos en formato STEP.
 
 ## Licencia
 
